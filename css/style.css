@@ -1,0 +1,29 @@
+body{
+    background: lightblue;
+}
+
+.bg-blue{
+    background-color: #336699
+}
+
+.label{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.feedback{
+    display: none;
+    background-color: #F8D7DA
+}
+
+.result,.loader{
+    display: none;
+}
+
+.max-height{
+    min-height: 100vh;
+}
+
+.show{
+    display: block !important;
+}
